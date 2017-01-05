@@ -1,0 +1,236 @@
+2016-12-11 11:11:23 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:15:23 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:15:23 - PHP Notice:  Trying to get property of non-object in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:15:48 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:15:48 - PHP Notice:  Use of undefined constant name - assumed 'name' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:15:48 - PHP Notice:  Undefined index: name in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:16:52 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:16:52 - PHP Notice:  Use of undefined constant name - assumed 'name' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:16:52 - PHP Notice:  Undefined index: name in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:17:05 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:17:05 - PHP Notice:  Use of undefined constant name - assumed 'name' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:17:05 - PHP Notice:  Undefined index: name in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:17:15 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:17:49 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:18:11 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:18:11 - PHP Notice:  Use of undefined constant name - assumed 'name' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:18:23 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:18:23 - PHP Notice:  Trying to get property of non-object in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:18:32 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:19:27 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:19:27 - PHP Notice:  Use of undefined constant name - assumed 'name' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:21:12 - PHP Notice:  Use of undefined constant product_description - assumed 'product_description' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 11:21:12 - PHP Notice:  Use of undefined constant name - assumed 'name' in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 7
+2016-12-11 14:04:33 - PHP Notice:  Undefined variable: error in /web/sites/opencart.local/www/admin/controller/common/test.php on line 7
+2016-12-11 14:05:13 - PHP Notice:  Array to string conversion in /web/sites/opencart.local/www/admin/controller/common/test.php on line 7
+2016-12-11 14:10:23 - PHP Notice:  Undefined variable: data in /web/sites/opencart.local/www/admin/controller/common/test.php on line 8
+2016-12-11 14:10:23 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/system/storage/modification/system/engine/loader.php on line 83
+2016-12-11 14:10:23 - PHP Notice:  Error: Could not load template /web/sites/opencart.local/www/admin/view/template/common/test.tpl! in /web/sites/opencart.local/www/system/storage/modification/system/library/template/php.php on line 23
+2016-12-11 14:10:33 - PHP Notice:  Error: Could not load template /web/sites/opencart.local/www/admin/view/template/common/test.tpl! in /web/sites/opencart.local/www/system/storage/modification/system/library/template/php.php on line 23
+2016-12-11 14:13:15 - PHP Notice:  Undefined variable: header in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:13:15 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:13:15 - PHP Notice:  Undefined variable: heading_title in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 5
+2016-12-11 14:13:15 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 9
+2016-12-11 14:13:15 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:13:15 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:13:15 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 29
+2016-12-11 14:13:41 - PHP Notice:  Undefined variable: header in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:13:41 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:13:41 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 8
+2016-12-11 14:13:41 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 13
+2016-12-11 14:13:41 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 13
+2016-12-11 14:13:41 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 14:14:05 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:14:05 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 8
+2016-12-11 14:14:05 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 13
+2016-12-11 14:14:05 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 13
+2016-12-11 14:14:05 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 14:16:19 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:16:19 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 12
+2016-12-11 14:16:19 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 12
+2016-12-11 14:16:19 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 27
+2016-12-11 14:16:44 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:16:44 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:16:44 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 22
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: header in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: heading_title in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 5
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: breadcrumbs in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:19:36 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:19:36 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:19:36 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 34
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: header in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: heading_title in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 5
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: breadcrumbs in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:20:03 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:20:03 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:20:03 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 34
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: header in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: heading_title in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 5
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: breadcrumbs in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:20:30 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:20:30 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:20:30 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 34
+2016-12-11 14:20:54 - PHP Notice:  Undefined variable: column_left in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 1
+2016-12-11 14:20:54 - PHP Notice:  Undefined variable: heading_title in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 5
+2016-12-11 14:20:54 - PHP Notice:  Undefined variable: breadcrumbs in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:20:54 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 7
+2016-12-11 14:20:54 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:20:54 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:20:54 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:20:54 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 34
+2016-12-11 14:21:08 - PHP Notice:  Undefined variable: heading_title in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 4
+2016-12-11 14:21:08 - PHP Notice:  Undefined variable: breadcrumbs in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 6
+2016-12-11 14:21:08 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 6
+2016-12-11 14:21:08 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 13
+2016-12-11 14:21:08 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 18
+2016-12-11 14:21:08 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 18
+2016-12-11 14:21:08 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 33
+2016-12-11 14:21:23 - PHP Notice:  Undefined variable: error_install in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 9
+2016-12-11 14:21:23 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:21:23 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 14
+2016-12-11 14:21:23 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 29
+2016-12-11 14:22:05 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 9
+2016-12-11 14:22:05 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 9
+2016-12-11 14:22:05 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 24
+2016-12-11 14:22:26 - PHP Notice:  Undefined variable: footer in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 11
+2016-12-11 14:31:42 - PHP Notice:  Undefined variable: rows in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:31:42 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:43:50 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:45:22 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:45:33 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:51:04 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:52:11 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:52:29 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:52:47 - PHP Notice:  Undefined variable: text in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:54:03 - PHP Notice:  Undefined variable: data in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 14:54:07 - PHP Notice:  Undefined variable: data in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 19
+2016-12-11 15:10:49 - PHP Notice:  Undefined index: product_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 9
+2016-12-11 15:10:49 - PHP Notice:  Undefined index: product_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 10
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: product_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 9
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: product_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 10
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: sku in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: upc in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: ean in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: jan in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: isbn in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: mpn in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: location in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: quantity in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: minimum in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: subtract in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: stock_status_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: date_available in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: manufacturer_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: shipping in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: price in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: points in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: weight in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: weight_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: length in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: width in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: height in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: length_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: status in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: tax_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: sort_order in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: product_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 22
+2016-12-11 15:15:42 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 22
+2016-12-11 15:15:42 - PHP Notice:  Undefined index: keyword in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 124
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: sku in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: upc in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: ean in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: jan in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: isbn in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: mpn in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: location in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: quantity in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: minimum in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: subtract in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: stock_status_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: date_available in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: manufacturer_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: shipping in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: price in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: points in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: weight in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: weight_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: length in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: width in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: height in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: length_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: status in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: tax_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: sort_order in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: product_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 22
+2016-12-11 15:16:25 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 22
+2016-12-11 15:16:25 - PHP Notice:  Undefined index: keyword in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 124
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: sku in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: upc in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: ean in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: jan in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: isbn in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: mpn in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: location in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: quantity in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: minimum in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: subtract in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: stock_status_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: date_available in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: manufacturer_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: shipping in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: price in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: points in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: weight in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: weight_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: length in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: width in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: height in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: length_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: status in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: tax_class_id in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: sort_order in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 14
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 23
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: tag in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 23
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: meta_description in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 23
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: meta_keyword in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 23
+2016-12-11 15:29:59 - PHP Notice:  Undefined index: keyword in /web/sites/opencart.local/www/admin/model/catalog/product.php on line 124
+2016-12-11 19:24:09 - PHP Notice:  Undefined variable: simaLand in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 27
+2016-12-11 19:24:09 - PHP Notice:  Trying to get property of non-object in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 27
+2016-12-11 19:24:09 - PHP Notice:  Undefined variable: simaLand in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 30
+2016-12-11 19:24:09 - PHP Notice:  Trying to get property of non-object in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 30
+2016-12-11 19:24:09 - PHP Notice:  Undefined variable: simaLand in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 33
+2016-12-11 19:24:09 - PHP Notice:  Trying to get property of non-object in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 33
+2016-12-11 19:24:09 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 44
+2016-12-11 19:24:09 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 44
+2016-12-11 19:24:48 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 29
+2016-12-11 19:24:48 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 29
+2016-12-11 19:25:45 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 26
+2016-12-11 19:25:45 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 26
+2016-12-11 19:25:50 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 26
+2016-12-11 19:25:50 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 26
+2016-12-11 19:26:33 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:26:33 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:27:22 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:27:22 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:33:08 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:33:08 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:33:49 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:33:49 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:33:52 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:33:52 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:34:25 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:34:25 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:35:07 - PHP Notice:  Undefined variable: parentCatsArray in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2016-12-11 19:35:07 - PHP Warning:  Invalid argument supplied for foreach() in /web/sites/opencart.local/www/admin/view/template/common/test.tpl on line 28
+2017-01-05 18:00:30 - PHP Notice:  Error: Could not load template /web/sites/opencart.local/www/admin/view/template/common/test.tpl! in /web/sites/opencart.local/www/system/storage/modification/system/library/template/php.php on line 23
+2017-01-05 18:01:11 - PHP Notice:  Error: Could not load template /web/sites/opencart.local/www/admin/view/template/common/test.tpl! in /web/sites/opencart.local/www/system/storage/modification/system/library/template/php.php on line 23
+2017-01-05 18:02:46 - PHP Notice:  Error: Could not load template /web/sites/opencart.local/www/admin/view/template/common/test.tpl! in /web/sites/opencart.local/www/system/storage/modification/system/library/template/php.php on line 23
